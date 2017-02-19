@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  time: 2017-02-19 11:37:19
+  vehicle_id: 1
+  lat: 1.5
+  lng: 1.5
+  speed: 1.5
+
+two:
+  time: 2017-02-19 11:37:19
+  vehicle_id: 1
+  lat: 1.5
+  lng: 1.5
+  speed: 1.5
