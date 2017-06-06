@@ -1,24 +1,12 @@
-# README
+# Transportation API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Getting Started
+1. Install [Docker Community Edition](https://www.docker.com/get-docker)
+2. Clone repo
+3. Run `docker-compose up`
 
-Things you may want to cover:
+#### Endpoints
+`api/trackers.json` - array of checkins from hardware trackers
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### Todo
+- [ ] Reload rails api when code changes during development?
